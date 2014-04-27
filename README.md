@@ -1,2 +1,3 @@
-Quiz like game developed with PHP and jQuery.
+TVZopoly
 ========
+Quiz like game developed with PHP and jQuery.
